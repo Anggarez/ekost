@@ -19,7 +19,7 @@
                 <ul class="nav navbar-nav">
                     <li class="mobile_menu_title" style="display:none;">MENU</li>
                     <li>
-                        <a href="/">OJJOJOJOJOJOJOJOJOJ</a>
+                        <a href="/">hgjghjghjghjghjgj</a>
                     </li>
                     <li>
                         <a href="#">ROOMS</a>
